@@ -1,0 +1,18 @@
+{
+  "https://eparlib.nic.in/bitstream/123456789/55142/3/lsd_01_01_13-05-1952.pdf": [
+    {
+      "poeti_reference_type": "Reference to Literary Work",
+      "parliamentarian": "Shri V. Veeraswamy",
+      "date": "13-05-1952",
+      "author": "Thiruvalluvar",
+      "quoted_text": "Thirukural"
+    },
+    {
+      "poeti_reference_type": "Alliteration with rhythmic pattern",
+      "parliamentarian": "Unknown",
+      "date": "13-05-1952",
+      "author": "Unknown",
+      "quoted_text": "blundering, plundering and thundering"
+    }
+  ]
+}
